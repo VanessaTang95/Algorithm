@@ -12,10 +12,10 @@
 
 ---
 ## Solution:
-[Brutal Solution]()
-* the time complexity is O(n^2), which is the worst situation
-[One-pass HashMap Solution]()
-* the time complexity is O(n)
+* [Brutal Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/Two_Sum_Brutal.java)
+  - The time complexity is O(n^2), which is the worst situation
+* [One-pass HashMap Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/Two_Sum_2.java)
+  - The time complexity is O(n)
 
 
 ## Related Problems

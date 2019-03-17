@@ -25,14 +25,16 @@
 ## Solution
 * Thoughts: Symmetric --> Mirror --> left.val = right.val --> vice versa
 
-*[recursive solution]()
+*[recursive solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/SymmetricTreeRecurse.java)
   - Time Complexity: O(n);
   - Space Complexity: worst case: O(n);
 
 [iterative solution]()
 
 ## Related Problem
-
+* [Binary Tree Inorder Traversal]()
+* [Employee Importance]()
+* [Open the Lock]()
 
 ## Possible Follow-up
 If you have done it recursively, follow-up: can you do it iteratively?

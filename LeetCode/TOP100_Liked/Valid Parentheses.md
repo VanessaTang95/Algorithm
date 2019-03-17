@@ -37,8 +37,10 @@ Output: true
 ```
 ---
 ## Solution
-[Solution1]()
-[Solution2 (brilliant one)]()
+* [Solution1](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/ValidParentheses.java)
+  - Time complexity should be O(n);
+* [Solution2 (brilliant one)](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/ValidPharentheses2.java)
+  - T(n)=O(n);
 
 ## Related problems:
 * [Generate Parentheses]()
