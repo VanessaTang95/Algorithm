@@ -18,7 +18,7 @@ Output: false
 A and B will have length at most 100.
 
 ## Solution
-* [Simple Solution]()
+* [Simple Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/Rotate_String.java)
   - T(n): O(m*n)
   - S(n): O(m)
 

@@ -17,7 +17,7 @@ Output: [9,4]
 * Each element in the result must be unique.
 * The result can be in any order.
 ## Solution
-*[Brutal Solution]()
+*[Brutal Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/IntersectionOf2Arrs1.java)
   - T(n)=O(n)
   - S(n)=O(n)
 *[Binary Search]()

@@ -21,7 +21,7 @@ Output: ["h","a","n","n","a","H"]
 
 
 ## Solution
-* [brutal Solution]()
+* [brutal Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/String_Reverse1.java)
   - T(n)=O(n);
   - S(n)=O(n);
 
