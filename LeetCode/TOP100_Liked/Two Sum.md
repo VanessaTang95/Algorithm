@@ -14,6 +14,9 @@
 ## Solution:
 * [Brutal Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/Two_Sum_Brutal.java)
   - The time complexity is O(n^2), which is the worst situation
+* [two pointer solution]()
+  - If the input array is garuanteed sorted array
+  - T(n)=O(n);
 * [One-pass HashMap Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top100_Liked_Solution/Two_Sum_2.java)
   - The time complexity is O(n)
 
