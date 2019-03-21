@@ -30,7 +30,7 @@ It doesn't matter what values are set beyond the returned length.
 It should be silimar to the _move zeroes_ problem and _remove elements_ problem, we will use two pointers, one in loop, another one as manul pointer
 
 ## Solution
-* [Two pointers solution]()
+* [Two pointers solution](https://github.com/VanessaTang95/Algorithm/blob/master/Algorithm%20studying%20and%20practicing/Immoc/master_algorithmInterview/Array/RemoveDuplicates.java)
   - be careful about the order(judge condition and its operataion case)
   - T(n)=O(n)
   - S(n)=O(1)

@@ -44,5 +44,8 @@ Let's code a _binary search_
 
 ## Summary
 * know why we set up variable
+
+## solution
+[Solution](https://github.com/VanessaTang95/Algorithm/blob/master/Algorithm%20studying%20and%20practicing/Immoc/master_algorithmInterview/Array/BinarySearch.java)
 * base case to stop loop/recursion
 * test case considered!!! small data set -> mass data set

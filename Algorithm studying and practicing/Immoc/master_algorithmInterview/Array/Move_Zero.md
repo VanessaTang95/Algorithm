@@ -33,10 +33,10 @@ Output: [1,3,12,0,0]
 
 
 ## Solution
-* If copy array is allowed -[solution]()
+* If copy array is allowed -[solution](https://github.com/VanessaTang95/Algorithm/blob/master/Algorithm%20studying%20and%20practicing/Immoc/master_algorithmInterview/Array/Move_Zeroes.java)
   - T(n)=O(n)
   - S(n)=O(n)
-* [two pointers]()
+* [two pointers](https://github.com/VanessaTang95/Algorithm/blob/master/Algorithm%20studying%20and%20practicing/Immoc/master_algorithmInterview/Array/Move_Zeroes_2.java)
   - T(n)=O(n)
   - S(n)=O(1)
 

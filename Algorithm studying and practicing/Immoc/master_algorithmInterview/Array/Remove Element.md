@@ -38,9 +38,9 @@ It doesn't matter what values are set beyond the returned length.
 * Use two pointers, one in loop, one used as manul operate pointer; make the element equals to value to the end of the array, and then crop the array
 
 ## Solution
-* [Two pointer Solution]()
+* [Two pointer Solution](https://github.com/VanessaTang95/Algorithm/blob/master/Algorithm%20studying%20and%20practicing/Immoc/master_algorithmInterview/Array/RemoveElements.java)
   - But the original array didn't crop, it automatically cropped by LC
   - T(n)=O(n)
   - S(n)=O(1)
 ## Related Problem
-* [remove duplicates from sorted array]()
+* [remove duplicates from sorted array](https://github.com/VanessaTang95/Algorithm/blob/master/Algorithm%20studying%20and%20practicing/Immoc/master_algorithmInterview/Array/Remove%20Duplicated%20from%20sorted%20Array.md)
