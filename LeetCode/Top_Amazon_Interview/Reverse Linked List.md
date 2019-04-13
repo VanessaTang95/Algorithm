@@ -1,5 +1,6 @@
 # Reverse Linked List
 Amazon
+Address:[LeetCode 206](https://leetcode.com/problems/reverse-linked-list/)
 ## Description
 > Reverse a singly linked list.
 ## Question to ask
@@ -15,8 +16,19 @@ Output: 5->4->3->2->1->NULL
 ```
 
 ## My Thoughts
-* Swap it?
+* Swap it? -- close to the iterative one
 
 ## Solution
+* [Iterative Solution]()
+  - T(n):O(n)
+  - S(n):O(n)
+* [recursive Solution]()
+  - T(n)=O(n)
+  - S(n)=O(n)
 
 ## Related Problem
+* [Reverse LinkedList II]()
+* [Binary Tree Upside Down]()
+* [Palindrome Linked List]()
+## Detailed Explanation
+[Youtube](https://www.youtube.com/watch?time_continue=433&v=O0By4Zq0OFc)

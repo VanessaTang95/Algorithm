@@ -1,5 +1,5 @@
 # First Unique Character in a String
-Address:[Leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/)
+Address:[Leetcode 387](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 ## Description
 > Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
@@ -28,10 +28,10 @@ return 2.
 Use sth to store the occurance of each character in String
 
 ## Solutions
-* [HashMap]()
+* [HashMap](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/Find_1st_Unique_Char.java)
   - T(n)=O(n)
   - S(n)=O(n)
-* [Array]()
+* [Array](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/Find_1st_Unique_Char2.java)
   - T(n)=O(n)
   - S(n)=O(n)
   - But this is a fixed array, so in this case, it's faster than hashmap

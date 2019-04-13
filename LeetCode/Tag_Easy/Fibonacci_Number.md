@@ -1,4 +1,5 @@
 # Fibonacci Number
+Address:[LeetCode 509](https://leetcode.com/problems/fibonacci-number/)
 ## Description
 > The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 > F(0) = 0,   F(1) = 1
@@ -29,15 +30,15 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 * Using brutal solution, which is using the rule of Fibonacci
 
 ## solution
-* [Brutal Solution]()
+* [Brutal Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/Fib_Solution1.java)
   - T(n)=T(n-1)+T(n-2)=O(2^n)
   - S(n)=O(n)
-* [iternative Solution]()
+* [iternative Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/Fib_Solution3.java)
   - Probably the best solution so far
   - T(n)=O(n)
   - S(n)=O(1)
   - It's dp solution
-* [recursive Solution]()
+* [recursive Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/Fib_Solution2.java)
   - T(n)=O(n)
   - S(n)=O(1)
   - It's dp Solution
