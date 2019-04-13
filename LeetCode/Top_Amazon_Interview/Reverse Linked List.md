@@ -19,10 +19,10 @@ Output: 5->4->3->2->1->NULL
 * Swap it? -- close to the iterative one
 
 ## Solution
-* [Iterative Solution]()
+* [Iterative Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top_Amazon_Interview_Solution/ReverseLinkedList_iterative.java)
   - T(n):O(n)
   - S(n):O(n)
-* [recursive Solution]()
+* [recursive Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Top_Amazon_Interview_Solution/ReverseLinkedList_Recursive.java)
   - T(n)=O(n)
   - S(n)=O(n)
 
