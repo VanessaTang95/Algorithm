@@ -28,5 +28,5 @@ Explanation: You are given the third node with value 1, the linked list should b
 * Don't need to pay much attention on this one
 
 ## Solution
-[Solution]()
+[Solution](https://github.com/VanessaTang95/Algorithm/blob/master/LeetCode/Tag_Easy_Solution/DeleteNodeInLinkedList.java)
 - T(n)=O(1), S(n)=O(1)

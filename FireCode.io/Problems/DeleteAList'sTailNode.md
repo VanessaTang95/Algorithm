@@ -8,6 +8,6 @@
 
 
 ## Solution
-[Solution]()
+[Solution](https://github.com/VanessaTang95/Algorithm/blob/master/FireCode.io/Solution/DeleteAtTail.java)
 - T(n)=O(n)
 - S(n)=O(1)

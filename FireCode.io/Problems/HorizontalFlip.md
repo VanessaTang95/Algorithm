@@ -21,6 +21,6 @@ Modified to :
 * Since it's only flip horizontally, so each row's value doesn't change. Thus we don't need to consider about the Matrix[][]
 
 ## Solution
-[Solution]()
+[Solution](https://github.com/VanessaTang95/Algorithm/blob/master/FireCode.io/Solution/HorizontalFlip.java)
 - T(n)=O(n)
 - S(n)=O(1)

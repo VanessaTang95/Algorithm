@@ -16,5 +16,5 @@ InsertAtHead(Head,3) ==> 3->1->2
 * Simple and basic LinkedList
 
 ## Solution
-[Solution]()
+[Solution](https://github.com/VanessaTang95/Algorithm/blob/master/FireCode.io/Solution/InsertANodeToHead.java)
 - T(n)=O(1),S(n)=O(1);

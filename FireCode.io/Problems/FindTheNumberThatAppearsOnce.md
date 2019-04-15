@@ -18,6 +18,6 @@ Oracle
 * Then consider whether use HashMap or not
 
 ## Solution
-[HashMap_Solution]()
+[HashMap_Solution](https://github.com/VanessaTang95/Algorithm/blob/master/FireCode.io/Solution/FindTheNumberThatAppearsOnce.java)
   - T(n)=O(n)
   - S(n)=O(n)
